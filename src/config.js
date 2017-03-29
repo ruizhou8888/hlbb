@@ -1,0 +1,23 @@
+export default{
+	menus:[
+        'source',
+        '|', 
+        'bold',
+        'quote',
+        'fontfamily',
+        'fontsize',
+        '|',
+        'underline',
+        'italic',
+        'strikethrough',
+        'eraser',
+        'forecolor',
+        'bgcolor',
+        'alignleft',
+        'aligncenter',
+        'alignright',
+        'img',
+        'video',
+        'emotion'
+    ]
+}
